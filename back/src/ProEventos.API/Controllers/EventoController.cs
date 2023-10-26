@@ -25,7 +25,7 @@ namespace ProEventos.API.Controllers
         }
 
         [HttpGet]
-        public string Get()
+        public Evento Get()
         {
             return "Exemplo get";
         }
