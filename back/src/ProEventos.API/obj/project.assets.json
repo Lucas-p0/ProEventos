@@ -193,7 +193,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lucas.pinheiro\\.nuget\\packages\\": {},
+    "C:\\Users\\admin.local\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -202,14 +202,14 @@
       "projectUniqueName": "C:\\Projetos\\ProEventos\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "projectName": "ProEventos.API",
       "projectPath": "C:\\Projetos\\ProEventos\\back\\src\\ProEventos.API\\ProEventos.API.csproj",
-      "packagesPath": "C:\\Users\\Lucas.pinheiro\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\admin.local\\.nuget\\packages\\",
       "outputPath": "C:\\Projetos\\ProEventos\\back\\src\\ProEventos.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Lucas.pinheiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\admin.local\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

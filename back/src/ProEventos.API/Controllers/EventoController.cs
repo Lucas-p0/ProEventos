@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Http;
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Authorization;
+using ProEventos.API.Controllers;
 
 
 
@@ -27,7 +28,11 @@ namespace ProEventos.API.Controllers
         [HttpGet]
         public Evento Get()
         {
-            return "Exemplo get";
+            return new Evento()
+            {
+                EventoId = 1,
+                Tema = "Angular"
+            };
         }
         [HttpPost]
         public string Post()
